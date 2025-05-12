@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-v$)#w2+(o80%mzvl%h&au*%deb)bb749rgcbd%*_4ut-$213l1
 DEBUG = True
 
 # Update ALLOWED_HOSTS to allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['ubiquitous-spork-w99qpxqxp6h7pw-8000.app.github.dev', 'localhost', '127.0.0.1']
 
 
 # Application definition
